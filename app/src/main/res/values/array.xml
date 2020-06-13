@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="resId">
+        <item>@drawable/shape</item>
+        <item>@drawable/shoopo</item>
+        <item>@drawable/socks</item>
+        <item>@drawable/wash</item>
+        <item>@drawable/milk</item>
+        <item>@drawable/salad</item>
+        <item>@drawable/meal</item>
+        <item>@drawable/mask</item>
+
+    </integer-array>
+
+    <string-array name="title">
+        <item>면도기</item>
+        <item>샴푸</item>
+        <item>양말</item>
+        <item>세제</item>
+        <item>우유</item>
+        <item>샐러드</item>
+        <item>도시락</item>
+        <item>마스크</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>#면도기 #깨끗함 #저자극</item>
+        <item>#청량함 #향긋한 #모발보호</item>
+        <item>#편안함 #탈취 #향균</item>
+        <item>#냄새제거 #향균 #뽀얀</item>
+        <item>#신선한 #목장배송 #키가쑥쑥</item>
+        <item>#다이어트 #웰빙 #유기농</item>
+        <item>#매일매일 #한끼식단 #건강식품</item>
+        <item>#안전필터 #환절기필수 #바이러스차단</item>
+    </string-array>
+</resources>
